@@ -1,4 +1,4 @@
-1.6. El Ecodiseño y las Estrategias Sostenibles ⚙️
+##1.6. El Ecodiseño y las Estrategias Sostenibles ⚙️
 
 El ecodiseño integra la sostenibilidad desde el inicio del desarrollo de productos, buscando reducir el impacto ambiental a lo largo de todo su ciclo de vida 🌍.
 
